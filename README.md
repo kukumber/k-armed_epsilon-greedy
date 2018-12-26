@@ -1,1 +1,1 @@
-# k-armed_epsilon-greedy
+# K-armed epsilon-greedy algorithm implementation
